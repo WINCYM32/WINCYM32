@@ -1,4 +1,4 @@
-<div class="Gif_1">
+<div class="Gif_1" style="text-align: center;">
   <img src="assets/icons/842.ico" alt="main_gif">
 </div>
 
