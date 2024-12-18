@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Segoe+UI&size=19&pause=1000&color=F7F7F7&width=435&lines=Welcome+to+Wincym32+%5BBootleg_user000%5D+Github+Profile.;You+can+also+take+a+look+at+my+profile!)](https://wincym32.github.io/Wincym32)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Segoe+UI&size=19&pause=1000&color=F7F7F7&width=435&lines=Welcome+to+Wincym32+%5BBootleg_user000%5D+Profile.;You+can+also+take+a+look+at+my+profile!)](https://wincym32.github.io/Wincym32)
